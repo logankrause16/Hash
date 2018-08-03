@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  Student.cpp
+  Project4_Hash.cpp
+c:\users\hulk jr\desktop\school\cs - 3100 data structures\project4_hash\project4_hash\hashtable.h(88): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  c:\users\hulk jr\desktop\school\cs - 3100 data structures\project4_hash\project4_hash\hashtable.h(87): note: while compiling class template member function 'float HashTable<Student>::alpha(void)'
+  c:\users\hulk jr\desktop\school\cs - 3100 data structures\project4_hash\project4_hash\project4_hash.cpp(32): note: see reference to function template instantiation 'float HashTable<Student>::alpha(void)' being compiled
+  c:\users\hulk jr\desktop\school\cs - 3100 data structures\project4_hash\project4_hash\project4_hash.cpp(9): note: see reference to class template instantiation 'HashTable<Student>' being compiled
+  HashTable.cpp
+  Generating Code...
+c:\users\hulk jr\desktop\school\cs - 3100 data structures\project4_hash\project4_hash\hashtable.h(65): warning C4715: 'HashTable<Student>::removeProbe': not all control paths return a value
+  Project4_Hash.vcxproj -> C:\Users\Hulk Jr\Desktop\School\CS - 3100 Data Structures\Project4_Hash\Debug\Project4_Hash.exe
